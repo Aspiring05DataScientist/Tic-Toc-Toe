@@ -1,11 +1,11 @@
-# Tic-Toc-Toe
-Its a childhood game in India we call it this game as O-X game.
+# Tic-Tac-Toe
+It's a childhood game in India we call this game as O-X game.
 Tic Tac Toe
 Project Description
-A simple console-based Tic Tac Toe game for two players. The game alternates turns between Player 1 (X) and Player 2 (O) until a winner is determined or the board is full. Optional functionality includes saving the game state and resuming it later.
+It is a simple console-based Tic Tac Toe game for two players. The game alternates turns between Player 1 (X) and Player 2 (O) until a winner is determined or the board is full. Optional functionality includes saving the game state and resuming it later.
 
 Features Implemented
-Interactive game board: Displays the current state of the game after every turn.
+Interactive game board: Displays the game's current state after every turn.
 
 Turn-based gameplay: Alternates turns between two players.
 
